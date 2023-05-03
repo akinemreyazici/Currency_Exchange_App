@@ -10,7 +10,7 @@ To use the app, simply download and run the project. The app will automatically 
 
 The app includes the following features:
 
-- XML Parser: The app uses an XML parser to fetch and parse the latest exchange rates from the Central Bank of the Republic of Turkey's website.
+- XML Parser: The app uses an XML parser to fetch and parse the latest exchange rates from the Central Bank of the Republic of Turkey's website. The exchange rates are updated daily and reflect the rates as of the latest business day.
 
 - Currency Converter: The app includes a simple currency converter that allows users to view the change of Turkish lira against other currencies.
 
