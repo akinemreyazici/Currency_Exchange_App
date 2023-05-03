@@ -27,5 +27,7 @@ The app was built using the following technologies:
 
 - Android Studio: The app was built using Android Studio, a popular integrated development environment (IDE) for Android app development.
 
+## Demo
+
 ![gif_dovizkuru](https://user-images.githubusercontent.com/116732291/235904465-a0052cef-a74a-4418-9d13-80ee52c3e5f7.gif)
 
