@@ -21,11 +21,11 @@ The app includes the following features:
 
 The app was built using the following technologies:
 
-- XML Parser: The app uses an XML parser to fetch and parse the latest exchange rates from the Central Bank of the Republic of Turkey's website.
+- XML Parser
 
-- Kotlin: The app was built using Kotlin, a popular programming language for Android app development.
+- Kotlin
 
-- Android Studio: The app was built using Android Studio, a popular integrated development environment (IDE) for Android app development.
+- Android Studio
 
 ## Demo
 
