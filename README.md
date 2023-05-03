@@ -1,12 +1,12 @@
-## Currency Exchange App
+# Currency Exchange App
 
 The "Currency Exchange" app is a sample project that demonstrates how to use an XML parser to fetch and display currency exchange rates from the website of the Central Bank of the Republic of Turkey.
 
-### How to Use
+## How to Use
 
 To use the app, simply download and run the project. The app will automatically fetch the latest exchange rates from the Central Bank of the Republic of Turkey's website using an XML parser, and display them in a user-friendly format.
 
-### Features
+## Features
 
 The app includes the following features:
 
@@ -17,7 +17,7 @@ The app includes the following features:
 - User-Friendly Interface: The app has a user-friendly interface that makes it easy for users to view the latest exchange rates and perform currency conversions.
 
 
-### Technologies Used
+## Technologies Used
 
 The app was built using the following technologies:
 
