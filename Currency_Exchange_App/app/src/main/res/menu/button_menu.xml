@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/abd_dollar"
+        android:title="@string/abd_dollar" />
+    <item
+        android:id="@+id/australian_dollar"
+        android:title="@string/australian_dollar" />
+    <item
+        android:id="@+id/denmak_kron"
+        android:title="@string/denmak_kron" />
+    <item
+        android:id="@+id/euro"
+        android:title="@string/euro" />
+    <item
+        android:id="@+id/england_sterline"
+        android:title="@string/england_sterline" />
+    <item
+        android:id="@+id/switzerland_frank"
+        android:title="@string/switzerland_frank" />
+    <item
+        android:id="@+id/sweeden_kron"
+        android:title="@string/sweeden_kron" />
+    <item
+        android:id="@+id/canada_dollar"
+        android:title="@string/canada_dollar" />
+    <item
+        android:id="@+id/kuvalti_dinar"
+        android:title="@string/kuvalti_dinar" />
+    <item
+        android:id="@+id/norway_kron"
+        android:title="@string/norway_kron" />
+    <item
+        android:id="@+id/saudi_riyal"
+        android:title="@string/saudi_riyal" />
+    <item
+        android:id="@+id/japan_yen"
+        android:title="@string/japan_yen" />
+    <item
+        android:id="@+id/bulgarian_lev"
+        android:title="@string/bulgarian_lev" />
+    <item
+        android:id="@+id/NEW_LEU"
+        android:title="@string/NEW_LEU" />
+    <item
+        android:id="@+id/Russian_double"
+        android:title="@string/Russian_double" />
+    <item
+        android:id="@+id/Iranian_rial"
+        android:title="@string/Iranian_rial" />
+    <item
+        android:id="@+id/Chinese_Remnibi"
+        android:title="@string/Chinese_Remnibi" />
+    <item
+        android:id="@+id/Pakistani_rupee"
+        android:title="@string/Pakistani_rupee" />
+    <item
+        android:id="@+id/Qatari_riyal"
+        android:title="@string/Qatari_riyal" />
+    <item
+        android:id="@+id/South_korean_won"
+        android:title="@string/South_korean_won" />
+    <item
+        android:id="@+id/Azerbaijani_new_manat"
+        android:title="@string/Azerbaijani_new_manat" />
+    <item
+        android:id="@+id/United_Arab_Emirates_Dirham"
+        android:title="@string/United_Arab_Emirates_Dirham" />
+</menu>

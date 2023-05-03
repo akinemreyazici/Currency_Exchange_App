@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Döviz Kuru Öğren</string>
+    <string name="abd_dollar">ABD DOLARI</string>
+    <string name="australian_dollar">AVUSTRALYA DOLARI</string>
+    <string name="denmak_kron">DANİMARKA KRONU</string>
+    <string name="euro">EURO</string>
+    <string name="england_sterline">İNGİLİZ STERLİNİ</string>
+    <string name="switzerland_frank">İSVİÇRE FRANGI</string>
+    <string name="sweeden_kron">İSVEÇ KRONU</string>
+    <string name="canada_dollar">KANADA DOLARI</string>
+    <string name="kuvalti_dinar">KUVEYT DİNARI</string>
+    <string name="norway_kron">NORVEÇ KRONU</string>
+    <string name="saudi_riyal">SUUDİ ARABİSTAN RİYALİ</string>
+    <string name="japan_yen">JAPON YENİ</string>
+    <string name="bulgarian_lev">BULGAR LEVASI</string>
+    <string name="NEW_LEU">RUMEN LEYİ</string>
+    <string name="Russian_double">RUS RUBLESİ</string>
+    <string name="Iranian_rial">İRAN_RİYALİ</string>
+    <string name="Chinese_Remnibi">ÇİN YUANI</string>
+    <string name="Pakistani_rupee">PAKİSTAN RUPİSİ</string>
+    <string name="Qatari_riyal">KATAR RİYALİ</string>
+    <string name="South_korean_won">GÜNEY KORE WONU</string>
+    <string name="Azerbaijani_new_manat">AZERBAYCAN YENİ MANATI</string>
+    <string name="United_Arab_Emirates_Dirham">BİRLEŞİK ARAP EMİRLİKLERİ DİRHEMİ</string>
+</resources>
