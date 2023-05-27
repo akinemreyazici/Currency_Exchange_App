@@ -25,9 +25,10 @@ The app was built using the following technologies:
 
 - Kotlin
 
+
 - Android Studio
 
-## Demo
+<h1 align="center">Demo</h1>
 
 
 <p align="center">
