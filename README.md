@@ -29,6 +29,9 @@ The app was built using the following technologies:
 
 ## Demo
 
-<img src="https://user-images.githubusercontent.com/116732291/235904465-a0052cef-a74a-4418-9d13-80ee52c3e5f7.gif" alt="Currency Exchange App Demo" width="400" height="800">
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/116732291/235904465-a0052cef-a74a-4418-9d13-80ee52c3e5f7.gif" alt="Currency Exchange App Demo" width="500" style="display: block; margin: auto;">
+</p>
 
 
